@@ -1,2 +1,2 @@
 # OIBSIP_Task1
-Oasisinfobyte internship on web development. Here I have completed the task-1 of Level-2 of OASIS INFOBYTE with the help of HTML, CSS, JavaScript.
+TASK-1:- Calculator (It is a Oasis Infobyte Level 2 Task 1 of code to develop a Calculator. It is written using HTML, CSS and JavaScript. It performs arithmetic operations such as Addition, Subtraction, Multiplication and Division. The results will be displayed in the screen.).
